@@ -2,32 +2,241 @@
   "questions": [
     {
       "id": 1,
-      "category": "Science",
-      "difficulty": "Easy",
-      "question": "What is the chemical symbol for gold?",
-      "options": ["Au", "Ag", "Fe", "Cu"],
-      "correct_answer": "Au"
+      "question": "Which of the following are good ways to grow as a content creator?",
+      "options": [
+        "Avoid posting personal views",
+        "Speak only in English to grow",
+        "Follow trends to become famous",
+        "Stay true to your voice and values"
+      ],
+      "answer": 3
     },
     {
       "id": 2,
-      "category": "History",
-      "difficulty": "Medium",
-      "question": "In what year did World War II end?",
-      "options": ["1943", "1944", "1945", "1946"],
-      "correct_answer": "1945"
+      "question": "What is the difference between internal and external motivation?",
+      "options": [
+        "There is no real difference",
+        "External comes from others; internal comes from within",
+        "Internal depends on prizes; external depends on curiosity",
+        "Internal is about money; external is about dreams"
+      ],
+      "answer": 1
     },
     {
       "id": 3,
-      "category": "Geography",
-      "difficulty": "Hard",
-      "question": "Which is the longest river in the world?",
-      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
-      "correct_answer": "Nile"
+      "question": "What change can help a person improve their learning routine?",
+      "options": [
+        "Taking extra tutoring in all subjects",
+        "Memorising textbooks word for word",
+        "Using colorful flowcharts and recording audio explanations",
+        "Studying for longer hours without breaks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following helps build emotional awareness over time?",
+      "options": [
+        "Daily mindfulness, reflection, and naming feelings",
+        "Ignoring emotional responses",
+        "Avoiding all emotional situations",
+        "Suppressing emotions at work"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "What is a sign of active listening during a disagreement?",
+      "options": [
+        "Paraphrasing what the other person said",
+        "Avoiding eye contact",
+        "Using your phone while they talk",
+        "Interrupting to clarify your point"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "What is the first step to changing a negative thought?",
+      "options": [
+        "Notice it and say \"stop\"",
+        "Replace it immediately",
+        "Ignore it",
+        "Share it with others"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a workplace ethical action?",
+      "options": [
+        "Speaking up respectfully against unfair behaviour",
+        "Ignoring the mistakes of others",
+        "Competing secretly with colleagues",
+        "Taking all credit silently"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "What is the first step in managing emotions effectively?",
+      "options": [
+        "Suppressing emotions completely",
+        "Talking to a friend about it immediately",
+        "Identifying and naming your emotions",
+        "Reacting instantly to how you feel"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is a common myth about creativity?",
+      "options": [
+        "It can be taught only in an art school",
+        "It is an inborn gift, not something you can develop",
+        "It's only useful in emergencies",
+        "It only exists in science"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What key skill would a principal use when responding to a teacher's emotional breakdown?",
+      "options": [
+        "Strict discipline",
+        "Punishment and silence",
+        "Ignoring the situation",
+        "Empathy, self-regulation, and social skills"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "A student believes \"I'm not creative...\" Which idea corrects this?",
+      "options": [
+        "Creativity only counts in art",
+        "Only sudden inspiration matters",
+        "Creativity includes problem solving and innovation",
+        "Only childhood imagination matters"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which helps enhance voice modulation?",
+      "options": [
+        "Memorising script",
+        "Watching speeches + drama club",
+        "Avoiding speaking",
+        "Always using mic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which success is meaningful?",
+      "options": [
+        "Inheriting wealth",
+        "Creating sustainable products",
+        "Being lucky",
+        "Becoming famous overnight"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is self-management?",
+      "options": [
+        "Controlling actions and emotions",
+        "Avoiding responsibilities",
+        "Being always productive",
+        "Managing others"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "question": "First step to run marathon?",
+      "options": [
+        "Buy shoes",
+        "Run 5 min daily",
+        "Hire coach",
+        "Enter competition"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Active listening involves?",
+      "options": [
+        "Talking more",
+        "Full attention",
+        "Thinking reply",
+        "Judging"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Helps manage deadlines?",
+      "options": [
+        "Tutor",
+        "Reminder apps",
+        "Mind maps",
+        "Delegating"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Best mindset during change?",
+      "options": [
+        "Defensive",
+        "Carefree",
+        "Fixed",
+        "Growth"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "How did Kalam show leadership?",
+      "options": [
+        "Firing officials",
+        "Space missions",
+        "Cut salary",
+        "Refusing misuse of funds"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "50-30-20 budgeting rule?",
+      "options": [
+        "Rule of Three",
+        "Pareto",
+        "Zero-based",
+        "50-30-20 Rule"
+      ],
+      "answer": 3
     }
   ],
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "last_updated": "2026-05-03",
-    "total_questions": 3
+    "total_questions": 20,
+    "category": "Personal Development and Life Skills",
+    "topics": [
+      "Content Creation",
+      "Motivation",
+      "Learning Strategies",
+      "Emotional Intelligence",
+      "Communication",
+      "Mindfulness",
+      "Ethics",
+      "Creativity",
+      "Leadership",
+      "Financial Management"
+    ]
   }
 }
