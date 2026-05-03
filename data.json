@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Science",
+      "difficulty": "Easy",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correct_answer": "Au"
+    },
+    {
+      "id": 2,
+      "category": "History",
+      "difficulty": "Medium",
+      "question": "In what year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correct_answer": "1945"
+    },
+    {
+      "id": 3,
+      "category": "Geography",
+      "difficulty": "Hard",
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correct_answer": "Nile"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-05-03",
+    "total_questions": 3
+  }
+}
