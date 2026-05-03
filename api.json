@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following are good ways to grow as a content creator?",
+      "options": [
+        "Avoid posting personal views",
+        "Speak only in English to grow",
+        "Follow trends to become famous",
+        "Stay true to your voice and values"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between internal and external motivation?",
+      "options": [
+        "There is no real difference",
+        "External comes from others; internal comes from within",
+        "Internal depends on prizes; external depends on curiosity",
+        "Internal is about money; external is about dreams"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What change can help a person improve their learning routine?",
+      "options": [
+        "Taking extra tutoring in all subjects",
+        "Memorising textbooks word for word",
+        "Using colorful flowcharts and recording audio explanations",
+        "Studying for longer hours without breaks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following helps build emotional awareness over time?",
+      "options": [
+        "Daily mindfulness, reflection, and naming feelings",
+        "Ignoring emotional responses",
+        "Avoiding all emotional situations",
+        "Suppressing emotions at work"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "What is a sign of active listening during a disagreement?",
+      "options": [
+        "Paraphrasing what the other person said",
+        "Avoiding eye contact",
+        "Using your phone while they talk",
+        "Interrupting to clarify your point"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "What is the first step to changing a negative thought?",
+      "options": [
+        "Notice it and say \"stop\"",
+        "Replace it immediately",
+        "Ignore it",
+        "Share it with others"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a workplace ethical action?",
+      "options": [
+        "Speaking up respectfully against unfair behaviour",
+        "Ignoring the mistakes of others",
+        "Competing secretly with colleagues",
+        "Taking all credit silently"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "What is the first step in managing emotions effectively?",
+      "options": [
+        "Suppressing emotions completely",
+        "Talking to a friend about it immediately",
+        "Identifying and naming your emotions",
+        "Reacting instantly to how you feel"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is a common myth about creativity?",
+      "options": [
+        "It can be taught only in an art school",
+        "It is an inborn gift, not something you can develop",
+        "It's only useful in emergencies",
+        "It only exists in science"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What key skill would a principal use when responding to a teacher's emotional breakdown?",
+      "options": [
+        "Strict discipline",
+        "Punishment and silence",
+        "Ignoring the situation",
+        "Empathy, self-regulation, and social skills"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "What is the primary benefit of networking in professional growth?",
+      "options": [
+        "Only for finding jobs",
+        "Building relationships and opening opportunities",
+        "Making friends only",
+        "Competing with peers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Which technique is most effective for time management?",
+      "options": [
+        "Doing everything at once",
+        "The Pomodoro Technique with focused intervals",
+        "Avoiding planning",
+        "Working late into the night"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What defines a growth mindset?",
+      "options": [
+        "Believing abilities are fixed",
+        "Seeing challenges as opportunities to learn",
+        "Avoiding failure at all costs",
+        "Comparing yourself to others constantly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "How can you improve problem-solving skills?",
+      "options": [
+        "Avoid difficult situations",
+        "Practice breaking problems into smaller parts",
+        "Only rely on others",
+        "Rush to the first solution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "What role does a mentor play in career development?",
+      "options": [
+        "Does your work for you",
+        "Guides, advises, and shares experience",
+        "Creates obstacles",
+        "Only teaches technical skills"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Which habit builds resilience during setbacks?",
+      "options": [
+        "Giving up immediately",
+        "Reflecting on lessons and moving forward",
+        "Blaming others",
+        "Avoiding challenges"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "What is key to effective public speaking?",
+      "options": [
+        "Reading directly from notes",
+        "Speaking very fast",
+        "Practice, confidence, and knowing your audience",
+        "Memorizing every word"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "What makes a goal SMART?",
+      "options": [
+        "Just having a goal",
+        "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "Only financial goals",
+        "Changing it frequently"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "How can you maintain work-life balance?",
+      "options": [
+        "Work all the time",
+        "Set boundaries and prioritize self-care",
+        "Ignore personal needs",
+        "Choose only one area"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the benefit of seeking constructive feedback?",
+      "options": [
+        "It always feels good",
+        "It helps identify improvement areas and grow",
+        "Only criticism matters",
+        "You should ignore it"
+      ],
+      "answer": 1
+    }
+  ],
+  "metadata": {
+    "version": "3.0",
+    "last_updated": "2026-05-03",
+    "total_questions": 30,
+    "category": "Personal Development and Life Skills",
+    "topics": [
+      "Content Creation",
+      "Motivation",
+      "Learning Strategies",
+      "Emotional Intelligence",
+      "Communication",
+      "Mindfulness",
+      "Ethics",
+      "Creativity",
+      "Leadership",
+      "Financial Management",
+      "Networking",
+      "Time Management",
+      "Problem Solving",
+      "Mentorship",
+      "Resilience",
+      "Public Speaking",
+      "Goal Setting",
+      "Work-Life Balance",
+      "Feedback",
+      "Professional Growth"
+    ]
+  }
+}
