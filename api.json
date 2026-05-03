@@ -220,6 +220,17 @@
       ],
       "answer": 1
     }
+        {
+      "id": 31,
+      "question": "What is the benefit of seeking constructive feedback?",
+      "options": [
+        "It always feels good",
+        "It helps identify improvement areas and grow",
+        "Only criticism matters",
+        "You should ignore it"
+      ],
+      "answer": 1
+        }
   ],
   "metadata": {
     "version": "3.0",
